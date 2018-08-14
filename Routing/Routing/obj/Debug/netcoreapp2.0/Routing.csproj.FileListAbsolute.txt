@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Routing\Routing\bin\Debug\netcoreapp2.0\Routing.deps.json
+C:\Users\Acer\source\repos\Routing\Routing\bin\Debug\netcoreapp2.0\Routing.runtimeconfig.json
+C:\Users\Acer\source\repos\Routing\Routing\bin\Debug\netcoreapp2.0\Routing.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Routing\Routing\bin\Debug\netcoreapp2.0\Routing.dll
+C:\Users\Acer\source\repos\Routing\Routing\obj\Debug\netcoreapp2.0\Routing.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Routing\Routing\obj\Debug\netcoreapp2.0\Routing.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Routing\Routing\obj\Debug\netcoreapp2.0\Routing.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Routing\Routing\obj\Debug\netcoreapp2.0\Routing.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Routing\Routing\bin\Debug\netcoreapp2.0\Routing.pdb
+C:\Users\Acer\source\repos\Routing\Routing\obj\Debug\netcoreapp2.0\Routing.dll
+C:\Users\Acer\source\repos\Routing\Routing\obj\Debug\netcoreapp2.0\Routing.pdb

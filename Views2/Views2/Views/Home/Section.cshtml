@@ -1,0 +1,15 @@
+﻿@model string[]
+
+<h1 class="page-title">Sections</h1>
+
+@section Fruit{
+<div class="well">
+    @foreach(string s in new[] {"apples","mangoes","grapes"})
+    {
+        @s <br />
+    }
+
+</div>
+
+}
+

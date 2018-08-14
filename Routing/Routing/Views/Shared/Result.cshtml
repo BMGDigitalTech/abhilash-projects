@@ -1,0 +1,42 @@
+﻿
+@{
+    Layout = null;
+}
+<!DOCTYPE>
+<html>
+<head>
+    <title>Rouiting</title>
+
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <br />
+        <br />
+        @ViewBag.Controller
+        <br />
+        @ViewBag.Action
+        <br />
+        @if (ViewBag.ID != null)
+        {
+            @ViewBag.ID;
+
+        }
+        <br />
+        @if (ViewBag.All != null)
+        {
+            @ViewBag.All;
+
+        }
+        <hr />
+        <a href="/home/Index">Home Index</a>
+        <a asp-controller="Home" asp-action="Index">Home Index</a>
+        <a asp-controller="Home" asp-action="Blog">Home Blog</a>
+        <a asp-controller="Admin" asp-action="Index">Admin Index</a>
+
+        <hr />
+        <a asp-controller="Home" asp-action="Blog" asp-route-id="3">ThirdSegment</a>
+        <a asp-controller="Admin" asp-action="Index" asp-fragment="someFragment">Admin Index</a>
+    </div>
+</body>
+</html>

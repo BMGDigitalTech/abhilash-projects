@@ -1,0 +1,11 @@
+c:\users\acer\source\repos\FormTagHelpers\FormTagHelpers\bin\Debug\netcoreapp2.0\FormTagHelpers.deps.json
+c:\users\acer\source\repos\FormTagHelpers\FormTagHelpers\bin\Debug\netcoreapp2.0\FormTagHelpers.runtimeconfig.json
+c:\users\acer\source\repos\FormTagHelpers\FormTagHelpers\bin\Debug\netcoreapp2.0\FormTagHelpers.runtimeconfig.dev.json
+c:\users\acer\source\repos\FormTagHelpers\FormTagHelpers\bin\Debug\netcoreapp2.0\FormTagHelpers.dll
+c:\users\acer\source\repos\FormTagHelpers\FormTagHelpers\bin\Debug\netcoreapp2.0\FormTagHelpers.pdb
+c:\users\acer\source\repos\FormTagHelpers\FormTagHelpers\obj\Debug\netcoreapp2.0\FormTagHelpers.csprojAssemblyReference.cache
+c:\users\acer\source\repos\FormTagHelpers\FormTagHelpers\obj\Debug\netcoreapp2.0\FormTagHelpers.csproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\FormTagHelpers\FormTagHelpers\obj\Debug\netcoreapp2.0\FormTagHelpers.AssemblyInfoInputs.cache
+c:\users\acer\source\repos\FormTagHelpers\FormTagHelpers\obj\Debug\netcoreapp2.0\FormTagHelpers.AssemblyInfo.cs
+c:\users\acer\source\repos\FormTagHelpers\FormTagHelpers\obj\Debug\netcoreapp2.0\FormTagHelpers.dll
+c:\users\acer\source\repos\FormTagHelpers\FormTagHelpers\obj\Debug\netcoreapp2.0\FormTagHelpers.pdb

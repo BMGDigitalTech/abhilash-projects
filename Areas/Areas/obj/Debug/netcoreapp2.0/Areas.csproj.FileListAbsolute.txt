@@ -1,0 +1,11 @@
+c:\users\acer\source\repos\Areas\Areas\bin\Debug\netcoreapp2.0\Areas.deps.json
+c:\users\acer\source\repos\Areas\Areas\bin\Debug\netcoreapp2.0\Areas.runtimeconfig.json
+c:\users\acer\source\repos\Areas\Areas\bin\Debug\netcoreapp2.0\Areas.runtimeconfig.dev.json
+c:\users\acer\source\repos\Areas\Areas\bin\Debug\netcoreapp2.0\Areas.dll
+c:\users\acer\source\repos\Areas\Areas\obj\Debug\netcoreapp2.0\Areas.csprojAssemblyReference.cache
+c:\users\acer\source\repos\Areas\Areas\obj\Debug\netcoreapp2.0\Areas.csproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\Areas\Areas\obj\Debug\netcoreapp2.0\Areas.AssemblyInfoInputs.cache
+c:\users\acer\source\repos\Areas\Areas\obj\Debug\netcoreapp2.0\Areas.AssemblyInfo.cs
+c:\users\acer\source\repos\Areas\Areas\bin\Debug\netcoreapp2.0\Areas.pdb
+c:\users\acer\source\repos\Areas\Areas\obj\Debug\netcoreapp2.0\Areas.dll
+c:\users\acer\source\repos\Areas\Areas\obj\Debug\netcoreapp2.0\Areas.pdb

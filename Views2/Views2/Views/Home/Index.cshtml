@@ -1,0 +1,13 @@
+﻿@model Views2.Models.Fruit
+
+<h1>Index view</h1>
+<p>The fruit is @Model.Name </p>
+
+@Html.Partial("_SomePartial")
+@Html.Partial("_StronglytypesPartial", new string[] { "apples", "grapes", "kiwis"})
+
+@section Scripts {
+    <script>
+        $("body").addClass("bg-primary");
+    </script>
+}

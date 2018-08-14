@@ -1,0 +1,24 @@
+﻿@model IEnumerable<string>
+
+<h1 class="page-title">Sections</h1>
+
+@section Fruit {
+    <div class="well text-primary">
+        @foreach(string s in new[] {"apples","oranges","mangoes"})
+        {
+            @s <br />
+
+        }
+
+    </div>
+
+}
+
+<div class="well text-primary">
+    <ul>
+        @foreach(string s in Model) {
+        <li>@s</li>
+        }
+        
+    </ul>
+</div>
