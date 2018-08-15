@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\firstapp\bin\Debug\netcoreapp2.1\firstapp.deps.json
+C:\Users\Acer\source\repos\firstapp\bin\Debug\netcoreapp2.1\firstapp.runtimeconfig.json
+C:\Users\Acer\source\repos\firstapp\bin\Debug\netcoreapp2.1\firstapp.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\firstapp\bin\Debug\netcoreapp2.1\firstapp.dll
+C:\Users\Acer\source\repos\firstapp\bin\Debug\netcoreapp2.1\firstapp.pdb
+C:\Users\Acer\source\repos\firstapp\obj\Debug\netcoreapp2.1\firstapp.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\firstapp\obj\Debug\netcoreapp2.1\firstapp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\firstapp\obj\Debug\netcoreapp2.1\firstapp.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\firstapp\obj\Debug\netcoreapp2.1\firstapp.AssemblyInfo.cs
+C:\Users\Acer\source\repos\firstapp\obj\Debug\netcoreapp2.1\firstapp.dll
+C:\Users\Acer\source\repos\firstapp\obj\Debug\netcoreapp2.1\firstapp.pdb

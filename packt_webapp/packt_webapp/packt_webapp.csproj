@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\**" />
+    <Compile Remove="wwwroot\obj\**" />
+    <Content Remove="wwwroot\**" />
+    <Content Remove="wwwroot\obj\**" />
+    <EmbeddedResource Remove="wwwroot\**" />
+    <EmbeddedResource Remove="wwwroot\obj\**" />
+    <None Remove="wwwroot\**" />
+    <None Remove="wwwroot\obj\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="wwwroot\index.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+</Project>

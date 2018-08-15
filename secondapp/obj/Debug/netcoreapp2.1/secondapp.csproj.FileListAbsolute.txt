@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\secondapp\bin\Debug\netcoreapp2.1\secondapp.deps.json
+C:\Users\Acer\source\repos\secondapp\bin\Debug\netcoreapp2.1\secondapp.runtimeconfig.json
+C:\Users\Acer\source\repos\secondapp\bin\Debug\netcoreapp2.1\secondapp.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\secondapp\bin\Debug\netcoreapp2.1\secondapp.dll
+C:\Users\Acer\source\repos\secondapp\bin\Debug\netcoreapp2.1\secondapp.pdb
+C:\Users\Acer\source\repos\secondapp\obj\Debug\netcoreapp2.1\secondapp.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\secondapp\obj\Debug\netcoreapp2.1\secondapp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\secondapp\obj\Debug\netcoreapp2.1\secondapp.RazorAssemblyInfo.cache
+C:\Users\Acer\source\repos\secondapp\obj\Debug\netcoreapp2.1\secondapp.RazorAssemblyInfo.cs
+C:\Users\Acer\source\repos\secondapp\obj\Debug\netcoreapp2.1\secondapp.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\secondapp\obj\Debug\netcoreapp2.1\secondapp.AssemblyInfo.cs
+C:\Users\Acer\source\repos\secondapp\obj\Debug\netcoreapp2.1\secondapp.RazorTargetAssemblyInfo.cache
+C:\Users\Acer\source\repos\secondapp\obj\Debug\netcoreapp2.1\secondapp.dll
+C:\Users\Acer\source\repos\secondapp\obj\Debug\netcoreapp2.1\secondapp.pdb
