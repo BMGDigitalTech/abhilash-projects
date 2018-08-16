@@ -35,7 +35,7 @@ namespace packt_webapp.Repositories
             _context.Customers.Remove(Customer);
         }
 
-        public void update(Customer item)
+        public void Update(Customer item)
         {
             _context.Customers.Update(item);
         }
@@ -43,6 +43,11 @@ namespace packt_webapp.Repositories
         public bool Save()
         {
             return _context.SaveChanges() >= 0;
+        }
+
+        public void update(Customer item)
+        {
+            throw new NotImplementedException();
         }
     }
 }

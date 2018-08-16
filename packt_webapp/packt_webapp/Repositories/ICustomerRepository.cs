@@ -11,6 +11,6 @@ namespace packt_webapp.Repositories
         IQueryable<Customer> GetAll();
         Customer GetSingle(Guid id);
         bool Save();
-        void update(Customer item);
+        void Update(Customer item);
     }
 }
