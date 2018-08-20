@@ -1,0 +1,11 @@
+c:\users\acer\source\repos\dataIFD\dataIFD\bin\Debug\netcoreapp2.1\dataIFD.deps.json
+c:\users\acer\source\repos\dataIFD\dataIFD\bin\Debug\netcoreapp2.1\dataIFD.runtimeconfig.json
+c:\users\acer\source\repos\dataIFD\dataIFD\bin\Debug\netcoreapp2.1\dataIFD.runtimeconfig.dev.json
+c:\users\acer\source\repos\dataIFD\dataIFD\bin\Debug\netcoreapp2.1\dataIFD.dll
+c:\users\acer\source\repos\dataIFD\dataIFD\bin\Debug\netcoreapp2.1\dataIFD.pdb
+c:\users\acer\source\repos\dataIFD\dataIFD\obj\Debug\netcoreapp2.1\dataIFD.csprojAssemblyReference.cache
+c:\users\acer\source\repos\dataIFD\dataIFD\obj\Debug\netcoreapp2.1\dataIFD.csproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\dataIFD\dataIFD\obj\Debug\netcoreapp2.1\dataIFD.AssemblyInfoInputs.cache
+c:\users\acer\source\repos\dataIFD\dataIFD\obj\Debug\netcoreapp2.1\dataIFD.AssemblyInfo.cs
+c:\users\acer\source\repos\dataIFD\dataIFD\obj\Debug\netcoreapp2.1\dataIFD.dll
+c:\users\acer\source\repos\dataIFD\dataIFD\obj\Debug\netcoreapp2.1\dataIFD.pdb

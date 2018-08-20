@@ -1,0 +1,11 @@
+c:\users\acer\source\repos\ImpExpConv\ImpExpConv\bin\Debug\netcoreapp2.1\ImpExpConv.deps.json
+c:\users\acer\source\repos\ImpExpConv\ImpExpConv\bin\Debug\netcoreapp2.1\ImpExpConv.runtimeconfig.json
+c:\users\acer\source\repos\ImpExpConv\ImpExpConv\bin\Debug\netcoreapp2.1\ImpExpConv.runtimeconfig.dev.json
+c:\users\acer\source\repos\ImpExpConv\ImpExpConv\bin\Debug\netcoreapp2.1\ImpExpConv.dll
+c:\users\acer\source\repos\ImpExpConv\ImpExpConv\bin\Debug\netcoreapp2.1\ImpExpConv.pdb
+c:\users\acer\source\repos\ImpExpConv\ImpExpConv\obj\Debug\netcoreapp2.1\ImpExpConv.csprojAssemblyReference.cache
+c:\users\acer\source\repos\ImpExpConv\ImpExpConv\obj\Debug\netcoreapp2.1\ImpExpConv.csproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\ImpExpConv\ImpExpConv\obj\Debug\netcoreapp2.1\ImpExpConv.AssemblyInfoInputs.cache
+c:\users\acer\source\repos\ImpExpConv\ImpExpConv\obj\Debug\netcoreapp2.1\ImpExpConv.AssemblyInfo.cs
+c:\users\acer\source\repos\ImpExpConv\ImpExpConv\obj\Debug\netcoreapp2.1\ImpExpConv.dll
+c:\users\acer\source\repos\ImpExpConv\ImpExpConv\obj\Debug\netcoreapp2.1\ImpExpConv.pdb
