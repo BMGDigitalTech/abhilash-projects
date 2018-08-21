@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>employee</title>
+</head>
+<body>
+    <div> 
+        @{ 
+            var tempEmp = (App2.Models.Employee)ViewData["Employee"];
+        }
+
+        <p>EmpID: @tempEmp.EmpID</p>
+        <p>EmpName: @tempEmp.EmpName</p>
+        <p>EmpSalary: @tempEmp.EmpSalary</p>
+    </div>
+</body>
+</html>

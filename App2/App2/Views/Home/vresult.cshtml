@@ -1,0 +1,66 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>vresult</title>
+</head>
+<body>
+    <div> 
+        <h1>This is view result page</h1>
+    </div>
+    <!-- Razor code block-->
+    @{ 
+        int a = 10;
+        int b = 20;
+        int c = a + b;
+        Response.Write(c);
+    }
+    <h2>@c</h2>
+    <h3>@DateTime.Now</h3>
+    @{ 
+        int n = 100;
+    }
+
+    @if(n==100)
+    {
+        <h4>N is equal to 100</h4>
+    } else
+    {
+        <h4>N os not equal to 100</h4>
+    }
+
+    <h5>For</h5>
+    @for(int i = 0; i <= 10; i++)
+    {
+        if(i%2 == 0)
+        {
+            <p style="color:orangered">@i</p>
+        } else
+        {
+            <p style="color:forestgreen">@i</p>
+        }
+    }
+
+    @{ 
+        List<string> mycities = new List<string>() { "New Delhi", "Bengalore", "Mumbai", "New York", "London" };
+    }
+
+    @foreach(string city in mycities)
+    {
+        <p>@city</p>
+    }
+    <!-- Razor literal -->
+    @for(int j = 0; j <= 10; j++)
+    {
+        @:Abhilash
+    }
+
+    @* Razor comment is used like this *@
+</body>
+</html>

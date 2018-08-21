@@ -1,4 +1,5 @@
-﻿using System;
+﻿using App2.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -58,6 +59,38 @@ namespace App2.Controllers
         public FileResult learnjavascript() 
         {
             return File("~/JavaScript-Unlocked.pdf", "application/pdf");
+        }
+
+        public RedirectToRouteResult rtresult()
+        {
+            return RedirectToAction("about", "Home");
+        }
+
+        public ActionResult about()
+        {
+            return Content("About");
+        }
+
+        public void strequest()
+        {
+            Server.TransferRequest("~/home/about");
+        }
+
+        public ViewResult vresult()
+        {
+            return View();
+        }
+
+        public ViewResult vdata()
+        {
+            ViewData["Message"] = "Hello how are you?";
+            return View();
+        }
+
+        public ViewResult employee()
+        {
+            ViewData["Employee"] = new Employee() { EmpID = 1, EmpName = "Abhilash", EmpSalary = 600000.00 };
+            return View();
         }
     }
 }
