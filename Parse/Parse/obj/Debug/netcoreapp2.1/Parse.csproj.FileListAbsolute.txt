@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Parse\Parse\bin\Debug\netcoreapp2.1\Parse.deps.json
+C:\Users\Acer\source\repos\Parse\Parse\bin\Debug\netcoreapp2.1\Parse.runtimeconfig.json
+C:\Users\Acer\source\repos\Parse\Parse\bin\Debug\netcoreapp2.1\Parse.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Parse\Parse\bin\Debug\netcoreapp2.1\Parse.dll
+C:\Users\Acer\source\repos\Parse\Parse\bin\Debug\netcoreapp2.1\Parse.pdb
+C:\Users\Acer\source\repos\Parse\Parse\obj\Debug\netcoreapp2.1\Parse.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Parse\Parse\obj\Debug\netcoreapp2.1\Parse.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Parse\Parse\obj\Debug\netcoreapp2.1\Parse.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Parse\Parse\obj\Debug\netcoreapp2.1\Parse.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Parse\Parse\obj\Debug\netcoreapp2.1\Parse.dll
+C:\Users\Acer\source\repos\Parse\Parse\obj\Debug\netcoreapp2.1\Parse.pdb

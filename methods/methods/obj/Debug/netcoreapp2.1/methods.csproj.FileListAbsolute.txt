@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\methods\methods\bin\Debug\netcoreapp2.1\methods.deps.json
+C:\Users\Acer\source\repos\methods\methods\bin\Debug\netcoreapp2.1\methods.runtimeconfig.json
+C:\Users\Acer\source\repos\methods\methods\bin\Debug\netcoreapp2.1\methods.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\methods\methods\bin\Debug\netcoreapp2.1\methods.dll
+C:\Users\Acer\source\repos\methods\methods\bin\Debug\netcoreapp2.1\methods.pdb
+C:\Users\Acer\source\repos\methods\methods\obj\Debug\netcoreapp2.1\methods.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\methods\methods\obj\Debug\netcoreapp2.1\methods.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\methods\methods\obj\Debug\netcoreapp2.1\methods.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\methods\methods\obj\Debug\netcoreapp2.1\methods.AssemblyInfo.cs
+C:\Users\Acer\source\repos\methods\methods\obj\Debug\netcoreapp2.1\methods.dll
+C:\Users\Acer\source\repos\methods\methods\obj\Debug\netcoreapp2.1\methods.pdb
