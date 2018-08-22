@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\tcfApp\tcfApp\bin\Debug\netcoreapp2.1\tcfApp.deps.json
+C:\Users\Acer\source\repos\tcfApp\tcfApp\bin\Debug\netcoreapp2.1\tcfApp.runtimeconfig.json
+C:\Users\Acer\source\repos\tcfApp\tcfApp\bin\Debug\netcoreapp2.1\tcfApp.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\tcfApp\tcfApp\bin\Debug\netcoreapp2.1\tcfApp.dll
+C:\Users\Acer\source\repos\tcfApp\tcfApp\bin\Debug\netcoreapp2.1\tcfApp.pdb
+C:\Users\Acer\source\repos\tcfApp\tcfApp\obj\Debug\netcoreapp2.1\tcfApp.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\tcfApp\tcfApp\obj\Debug\netcoreapp2.1\tcfApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\tcfApp\tcfApp\obj\Debug\netcoreapp2.1\tcfApp.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\tcfApp\tcfApp\obj\Debug\netcoreapp2.1\tcfApp.AssemblyInfo.cs
+C:\Users\Acer\source\repos\tcfApp\tcfApp\obj\Debug\netcoreapp2.1\tcfApp.dll
+C:\Users\Acer\source\repos\tcfApp\tcfApp\obj\Debug\netcoreapp2.1\tcfApp.pdb

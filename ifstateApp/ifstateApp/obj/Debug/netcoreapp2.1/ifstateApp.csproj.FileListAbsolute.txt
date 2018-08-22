@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\ifstateApp\ifstateApp\bin\Debug\netcoreapp2.1\ifstateApp.deps.json
+C:\Users\Acer\source\repos\ifstateApp\ifstateApp\bin\Debug\netcoreapp2.1\ifstateApp.runtimeconfig.json
+C:\Users\Acer\source\repos\ifstateApp\ifstateApp\bin\Debug\netcoreapp2.1\ifstateApp.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\ifstateApp\ifstateApp\bin\Debug\netcoreapp2.1\ifstateApp.dll
+C:\Users\Acer\source\repos\ifstateApp\ifstateApp\bin\Debug\netcoreapp2.1\ifstateApp.pdb
+C:\Users\Acer\source\repos\ifstateApp\ifstateApp\obj\Debug\netcoreapp2.1\ifstateApp.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ifstateApp\ifstateApp\obj\Debug\netcoreapp2.1\ifstateApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ifstateApp\ifstateApp\obj\Debug\netcoreapp2.1\ifstateApp.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ifstateApp\ifstateApp\obj\Debug\netcoreapp2.1\ifstateApp.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ifstateApp\ifstateApp\obj\Debug\netcoreapp2.1\ifstateApp.dll
+C:\Users\Acer\source\repos\ifstateApp\ifstateApp\obj\Debug\netcoreapp2.1\ifstateApp.pdb

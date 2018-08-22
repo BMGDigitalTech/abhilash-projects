@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\tableApp\tableApp\bin\Debug\netcoreapp2.1\tableApp.deps.json
+C:\Users\Acer\source\repos\tableApp\tableApp\bin\Debug\netcoreapp2.1\tableApp.runtimeconfig.json
+C:\Users\Acer\source\repos\tableApp\tableApp\bin\Debug\netcoreapp2.1\tableApp.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\tableApp\tableApp\bin\Debug\netcoreapp2.1\tableApp.dll
+C:\Users\Acer\source\repos\tableApp\tableApp\bin\Debug\netcoreapp2.1\tableApp.pdb
+C:\Users\Acer\source\repos\tableApp\tableApp\obj\Debug\netcoreapp2.1\tableApp.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\tableApp\tableApp\obj\Debug\netcoreapp2.1\tableApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\tableApp\tableApp\obj\Debug\netcoreapp2.1\tableApp.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\tableApp\tableApp\obj\Debug\netcoreapp2.1\tableApp.AssemblyInfo.cs
+C:\Users\Acer\source\repos\tableApp\tableApp\obj\Debug\netcoreapp2.1\tableApp.dll
+C:\Users\Acer\source\repos\tableApp\tableApp\obj\Debug\netcoreapp2.1\tableApp.pdb
