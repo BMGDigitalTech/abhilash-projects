@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\AvgApp\AvgApp\bin\Debug\netcoreapp2.1\AvgApp.deps.json
+C:\Users\Acer\source\repos\AvgApp\AvgApp\bin\Debug\netcoreapp2.1\AvgApp.runtimeconfig.json
+C:\Users\Acer\source\repos\AvgApp\AvgApp\bin\Debug\netcoreapp2.1\AvgApp.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\AvgApp\AvgApp\bin\Debug\netcoreapp2.1\AvgApp.dll
+C:\Users\Acer\source\repos\AvgApp\AvgApp\bin\Debug\netcoreapp2.1\AvgApp.pdb
+C:\Users\Acer\source\repos\AvgApp\AvgApp\obj\Debug\netcoreapp2.1\AvgApp.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\AvgApp\AvgApp\obj\Debug\netcoreapp2.1\AvgApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\AvgApp\AvgApp\obj\Debug\netcoreapp2.1\AvgApp.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\AvgApp\AvgApp\obj\Debug\netcoreapp2.1\AvgApp.AssemblyInfo.cs
+C:\Users\Acer\source\repos\AvgApp\AvgApp\obj\Debug\netcoreapp2.1\AvgApp.dll
+C:\Users\Acer\source\repos\AvgApp\AvgApp\obj\Debug\netcoreapp2.1\AvgApp.pdb

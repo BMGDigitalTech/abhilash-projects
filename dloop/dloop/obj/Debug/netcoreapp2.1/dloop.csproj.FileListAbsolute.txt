@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\dloop\dloop\bin\Debug\netcoreapp2.1\dloop.deps.json
+C:\Users\Acer\source\repos\dloop\dloop\bin\Debug\netcoreapp2.1\dloop.runtimeconfig.json
+C:\Users\Acer\source\repos\dloop\dloop\bin\Debug\netcoreapp2.1\dloop.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\dloop\dloop\bin\Debug\netcoreapp2.1\dloop.dll
+C:\Users\Acer\source\repos\dloop\dloop\bin\Debug\netcoreapp2.1\dloop.pdb
+C:\Users\Acer\source\repos\dloop\dloop\obj\Debug\netcoreapp2.1\dloop.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\dloop\dloop\obj\Debug\netcoreapp2.1\dloop.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\dloop\dloop\obj\Debug\netcoreapp2.1\dloop.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\dloop\dloop\obj\Debug\netcoreapp2.1\dloop.AssemblyInfo.cs
+C:\Users\Acer\source\repos\dloop\dloop\obj\Debug\netcoreapp2.1\dloop.dll
+C:\Users\Acer\source\repos\dloop\dloop\obj\Debug\netcoreapp2.1\dloop.pdb
