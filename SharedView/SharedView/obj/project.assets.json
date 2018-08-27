@@ -12493,11 +12493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\acer\\source\\repos\\SharedView\\SharedView\\SharedView.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\SharedView\\SharedView\\SharedView.csproj",
       "projectName": "SharedView",
-      "projectPath": "c:\\users\\acer\\source\\repos\\SharedView\\SharedView\\SharedView.csproj",
+      "projectPath": "C:\\Users\\Acer\\source\\repos\\SharedView\\SharedView\\SharedView.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\acer\\source\\repos\\SharedView\\SharedView\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\source\\repos\\SharedView\\SharedView\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
