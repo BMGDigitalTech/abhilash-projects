@@ -15,6 +15,52 @@ namespace App6.Controllers
             return View();
         }
 
+        public IActionResult UserDetail()
+        {
+            User u1 = new User();
+            u1.firstname = "Abhilash";
+            u1.lastname = "N";
+            u1.email = "abhi@example.com";
+            return View(u1);
+        }
+
+        public IActionResult Users()
+        {
+            List<User> u = new List<User>()
+            {
+                new User() {firstname="Abhilash", lastname="N", email="abhi@example.com"},
+                new User() {firstname="Abhishek", lastname="Kulkarni", email="rambo@example.com"},
+                new User() {firstname="Arjun", lastname="V", email="arjun@example.com"},
+                new User() {firstname="Chetan", lastname="Gadad", email="chetan@example.com"}
+            };
+            return View(u);
+        }
+
+        public IActionResult Combined()
+        {
+            List<User> u = new List<User>()
+            {
+                new User() {firstname="Abhilash", lastname="N", email="abhi@example.com"},
+                new User() {firstname="Abhishek", lastname="Kulkarni", email="rambo@example.com"},
+                new User() {firstname="Arjun", lastname="V", email="arjun@example.com"},
+                new User() {firstname="Chetan", lastname="Gadad", email="chetan@example.com"}
+            };
+
+            List<Product> p = new List<Product>()
+            {
+                new Product() { ProductId=101,ProductName="PS4",Cost=30000},
+                new Product() { ProductId=102,ProductName="Mobile",Cost=15000},
+                new Product() {ProductId=103, ProductName="Washing Machine", Cost=18000}
+            };
+
+            ViewModel vm = new ViewModel();
+            vm.u = u;
+            vm.p = p;
+
+
+            return View(vm);
+        }
+
         //[HttpPost]
         //public IActionResult Register()
         //{

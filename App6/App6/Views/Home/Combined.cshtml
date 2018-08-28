@@ -1,0 +1,53 @@
+﻿@model App6.Models.ViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Users and Products Combined</title>
+
+</head>
+<body>
+    <h1>Users and Products</h1>
+    <table class="table">
+        <caption>Users</caption>
+        <tr>
+            <th> First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+        </tr>
+        @foreach (var user in Model.u)
+        {
+            <tr>
+                <td>@user.firstname</td>
+                <td>@user.lastname</td>
+                <td>@user.email</td>
+            </tr>
+
+        }
+    </table>
+
+    <table class="table">
+        <caption>Products</caption>
+        <tr>
+            <th>Product Name</th>
+            <th>Product Cost</th>
+        </tr>
+        @foreach (var product in Model.p)
+        {
+            <tr>
+                <td>@product.ProductName</td>
+                <td>@product.Cost</td>
+               
+            </tr>
+
+        }
+    </table>
+
+</body>
+</html>
+

@@ -1,0 +1,20 @@
+﻿@model List<App6.Models.User>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Users</title>
+    @foreach(var user in Model)
+    {
+        <p>@user.firstname, @user.lastname, @user.email</p>
+
+    }
+</head>
+<body>
+</body>
+</html>
