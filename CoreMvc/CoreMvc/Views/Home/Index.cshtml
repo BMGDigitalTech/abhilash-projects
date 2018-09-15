@@ -1,0 +1,31 @@
+﻿@model List<CoreMvc.Models.Employee>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h1>Employees</h1>
+    <table border="1">
+        <tr>
+            <th>Emp ID</th>
+            <th>Emp Name</th>
+            <th>Salary</th>
+        </tr>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.EmpID</td>
+                <td>@item.EmpName</td>
+                <td>@item.Salary</td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

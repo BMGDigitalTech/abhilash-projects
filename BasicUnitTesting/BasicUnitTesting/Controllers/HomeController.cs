@@ -10,9 +10,33 @@ namespace BasicUnitTesting.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly CompanyDbContext _context;
+
+        
+
+        public HomeController(CompanyDbContext context)
+        {
+            _context = context;
+        }
+
         public IActionResult Index()
         {
+            return View("Index");
+        }
+
+        public IActionResult Square(int n)
+        {
+            int sq = n * n;
+            ViewBag.sq = sq;
             return View();
+        }
+
+        public IActionResult GetEmployee()
+        {
+            //CompanyDbContext Db = new CompanyDbContext();
+            //List<Employee> emps = Db.Employees.ToList();
+            List<Employee> emps = _context.Employees.ToList();
+            return View(emps);
         }
 
         public IActionResult About()

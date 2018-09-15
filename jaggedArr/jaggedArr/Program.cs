@@ -23,6 +23,19 @@ namespace jaggedArr
                     Console.WriteLine("{0} ", jaggedArray[i][j]);
                 }
             }
+
+            string[][] friendsAndFamily = new string[][]
+            {
+                new string[]{"Abhishek", "Karthik"},
+                new string[]{"Anup","Anushree"},
+                new string[]{"Raj Kishor", "Raj Kiran"}
+            };
+
+            Console.WriteLine("Hi {0}, I would like to introduce {1} to you.", friendsAndFamily[0][0], friendsAndFamily[1][0]);
+            Console.WriteLine("Hi {0}, I would like to introduce {1} to you.", friendsAndFamily[0][1], friendsAndFamily[2][0]);
+            Console.WriteLine("Hi {0}, I would like to introduce {1} to you.", friendsAndFamily[0][1], friendsAndFamily[2][1]);
+            Console.WriteLine("Hi {0}, I would like to introduce {1} to you.", friendsAndFamily[1][1], friendsAndFamily[2][1]);
+
             Console.ReadLine();
 
 

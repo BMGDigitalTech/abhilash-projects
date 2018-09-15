@@ -1,0 +1,24 @@
+﻿@model List<BasicUnitTesting.Models.Employee>
+@{
+    ViewData["Title"] = "GetEmployee";
+}
+
+<h2>GetEmployee</h2>
+
+<table border="0" class="table table-striped" >
+    <tr>
+        <th>Emp ID</th>
+        <th>Emp Name</th>
+        <th>Salary</th>
+    </tr>
+    @foreach (var emp in Model)
+    {
+        <tr>
+            <td>@emp.EmpID</td>
+            <td>@emp.EmpName</td>
+            <td>@emp.Salary</td>
+        </tr>
+    }
+
+</table>
+

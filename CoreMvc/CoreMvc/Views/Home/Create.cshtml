@@ -1,0 +1,26 @@
+﻿@model CoreMvc.Models.Employee
+
+@addTagHelper "*,Microsoft.AspNetCore.Mvc.TagHelpers"
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+    <h1>Create Employee</h1>
+    <form action="/employees/create" method="post">
+        <label for="EmpID">Emp ID</label>
+        <input type="text" asp-for="EmpID" /><br />
+        <label for="EmpName">Emp Name</label>
+        <input type="text" asp-for="EmpName" /><br />
+        <label for="Salary">Salary</label>
+        <input type="text" asp-for="Salary" /><br />
+        <input type="submit" value="Submit" />
+    </form>
+</body>
+</html>

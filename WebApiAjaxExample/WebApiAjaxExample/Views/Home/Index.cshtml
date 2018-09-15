@@ -1,0 +1,50 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <script src="~/jquery.min.js"></script>
+    <title>Search</title>
+</head>
+<body>
+    <h1>Search</h1>
+    <form>
+        <input type="text" placeholder="Search" id="txt1" />
+        <input type="button" value="Search" id="button1" />
+        <table border="1" id="table1">
+            <tr>
+                <th>EmpID</th>
+                <th>Emp Name</th>
+                <th>Salary</th>
+            </tr>
+            
+        </table>
+     </form>
+    <script>
+        $("#button1").click(fun1);
+        function fun1() {
+            $.ajax({ url: "/api/Employee?searchstr=" + $("#txt1").val(), type: "GET", success: fun2, error: fun3 });
+
+            function fun2(res) {
+                console.log(res);
+                $("#table1 tr:gt(0)").remove();
+                for (var i = 0; i < res.length; i++) {
+                    $("#table1").append("<tr><td>" + res[i].empID + "</td><td>" + res[i].empName + "</td><td>" + res[i].salary + "</td></tr>")
+
+                }
+            }
+
+            function fun3(error) {
+                console.log(error);
+
+            }
+
+        }
+    </script>
+</body>
+</html>

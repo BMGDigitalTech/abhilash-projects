@@ -9,7 +9,7 @@ namespace BasicUnitTesting.Models
     {
         public double Add(double a, double b)
         {
-            double c = a - b;
+            double c = a + b;
             return c;
         }
     }
