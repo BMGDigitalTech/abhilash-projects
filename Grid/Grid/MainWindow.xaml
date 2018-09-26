@@ -1,0 +1,28 @@
+﻿<Window x:Class="Grid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Grid"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button Grid.Column="0">Col 1 Button</Button>
+        <TextBlock Grid.Column="1" Grid.Row="0" HorizontalAlignment="Center" FontSize="32" VerticalAlignment="Center">TEXT</TextBlock>
+        <Button Grid.Column="1" Grid.Row="2">Col 2 Button</Button>
+        <Button Grid.Column="2">COl 3 Button</Button>
+        <Button Grid.Column="3" Grid.Row="2">Col 4 Button</Button>
+        <Button Grid.Column="4">Col 4 Button</Button>
+    </Grid>
+</Window>
