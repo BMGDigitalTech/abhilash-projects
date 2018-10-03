@@ -9,7 +9,7 @@ namespace PartialClassApp
             PartialCustomer c1 = new PartialCustomer();
             c1.FirstName = "Abhilash";
             c1.LastName = "N";
-            c1.GetFullName();
+            c1.PrintFullName();
         }
     }
 }

@@ -6,10 +6,9 @@ namespace PartialClassApp
 {
     public partial class PartialCustomer
     {
-        public void GetFullName()
+        partial void GetFullName()
         {
-            Console.WriteLine(this.FirstName + " " + this.LastName);
+            Console.WriteLine(this.FirstName + ' ' + this.LastName);
         }
-
     }
 }
