@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var book = ViewData.Model;
+}
+
+<h2>Details</h2>
+
+<table class="table">
+    <tr>
+        <th>Title</th>
+        <th>@book.Title</th>
+    </tr>
+    <tr>
+        <th>Author</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th>Isbn</th>
+        <td>@book.Isbn</td>
+    </tr>
+</table>

@@ -26,7 +26,7 @@ namespace BookStoreApp.Data
             modelBuilder.Entity<Book>().Property(b => b.Isbn).HasMaxLength(10).IsRequired();
             //  modelBuilder.Entity<Book>().HasAlternateKey(b => b.Isbn).HasName("UniqueIsbn");
             modelBuilder.Entity<Book>().HasIndex(b => b.Isbn).HasName("IsbnIndex").IsUnique();
-            modelBuilder.Entity<Book>().Ignore(b => b.FullTitle);
+           // modelBuilder.Entity<Book>().Ignore(b => b.FullTitle);
             //modelBuilder.Entity<Book>().Property(b => b.CreatedAt).HasDefaultValueSql("getdate()"); 
             modelBuilder.Entity<Book>().Property<DateTime>("CreatedAt").HasDefaultValueSql("getdate()");
           //  modelBuilder.Entity<Author>().HasKey(a => new {a.FirstName, a.LastName });

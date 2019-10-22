@@ -49,7 +49,14 @@ namespace BookStoreApp
             }
 
             app.UseStaticFiles();
+            using(var scope = app.ApplicationServices.GetRequiredService<IServiceScopeFactory>().CreateScope())
+            {
+                var context = scope.ServiceProvider.GetService<AppDbContext>();
+                context.Database.Migrate();
+                context.EnsureDatabaseSeeded();
+            }
             app.UseCookiePolicy();
+
 
             app.UseMvc(routes =>
             {

@@ -1,0 +1,29 @@
+﻿@model List<Book>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<a href="">Create New</a>
+<table class="table table-responsive">
+    <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Isbn</th>
+        <th>Action</th>
+    </tr>
+
+    @foreach(var book in Model)
+    {
+        <tr>
+            <td>@book.Title</td>
+            <td>@book.Author.FullName</td>
+            <td>@book.Isbn</td>
+            <td> <a href="">Edit</a> <a asp-controller="Book" asp-action="Details/@book.Id" >Details</a> <a href="">Delete</a></td>
+        </tr>
+    }
+</table>
+   

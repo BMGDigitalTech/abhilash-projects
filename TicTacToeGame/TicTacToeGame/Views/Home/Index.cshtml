@@ -1,0 +1,90 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="divPreviewImage">
+    <!-- To display the browsed image-->
+    <fieldset>
+        <div class="form-group">
+            <div class="col-lg-2">
+                <image src="" id="previewImage"
+                       style="height:100px;width:100px;border:solid
+                    2px dotted; float:left" />
+            </div>
+            <div class="col-lg-10" id="divOpponentPlayer">
+                <!--
+                To display image of opponent player-->
+                <image src="" id="opponentImage"
+                       style="height:100px;width:100px;border:solid
+                    2px dotted; float:right;" />
+            </div>
+        </div>
+    </fieldset>
+</div>
+
+<div id="divRegister">
+    <!-- Our Registration form-->
+    <fieldset>
+        <legend>Register</legend>
+        <div class="form-group">
+            <label for="name" class="col-lg-2 control-
+             label">Name</label>
+            <div class="col-lg-10">
+                <input type="text" class="form-control" id="name"
+                       placeholder="Name">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="image" class="col-lg-2 control-
+             label">Avatar</label>
+            <div class="col-lg-10">
+                <input type="file" class="form-control" id="image" />
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-lg-10 col-lg-offset-2">
+                <button type="button" class="btn btn-primary"
+                        id="btnRegister">
+                    Register
+                </button>
+            </div>
+        </div>
+    </fieldset>
+</div>
+
+<div id="divFindOpponentPlayer">
+    <!-- Section to display Find Opponent -->
+    <fieldset>
+        <legend>Find a player to play against!</legend>
+        <div class="form-group">
+            <input type="button" class="btn btn-primary"
+                   id="btnFindOpponentPlayer" value="Find Opponent
+             Player" />
+        </div>
+    </fieldset>
+</div>
+<div id="divFindingOpponentPlayer">
+    <!-- Section to display
+    opponent not found, wait -->
+    <fieldset>
+        <legend>Its lonely here!</legend>
+        <div class="form-group">
+            Looking for an opponent player. Waiting for someone to
+            join!
+        </div>
+    </fieldset>
+</div>
+<div id="divGameInformation" class="form-group">
+    <!-- Section to
+    display game information-->
+    <div class="form-group" id="divGameInfo"></div>
+    <div class="form-group" id="divInfo"></div>
+</div>
+<div id="divGame" style="clear:both">
+    <!-- Section where the game
+    board would be displayed -->
+    <fieldset>
+        <legend>Game On</legend>
+        <div id="divGameBoard" style="width:380px"></div>
+    </fieldset>
+</div>

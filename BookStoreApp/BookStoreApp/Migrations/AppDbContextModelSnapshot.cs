@@ -56,6 +56,10 @@ namespace BookStoreApp.Migrations
                         .IsRequired()
                         .HasMaxLength(10);
 
+                    b.Property<byte[]>("RowVersion")
+                        .IsConcurrencyToken()
+                        .ValueGeneratedOnAddOrUpdate();
+
                     b.Property<string>("Title")
                         .IsRequired()
                         .HasMaxLength(32);

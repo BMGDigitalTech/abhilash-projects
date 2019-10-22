@@ -20,6 +20,9 @@ namespace BookStoreApp.Models
         public Author Author { get; set; }
         public string Isbn { get; set; }
 
+        [Timestamp]
+        public byte[] RowVersion { get; set; }
+
         public string FullTitle
         {
             get
